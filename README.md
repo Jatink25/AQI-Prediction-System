@@ -11,7 +11,7 @@ An Arduino-based Air Quality Monitoring and Prediction System that measures envi
 - Machine Learning based AQI prediction
 - Data cleaning and preprocessing pipeline
 - Model analysis and visualization tools
-
+```
 ## Project Structure
 
 AQI-Prediction-System
@@ -28,7 +28,7 @@ AQI-Prediction-System
 │   └── model_graph.py
 │
 └── README.md
-
+```
 ## Technologies Used
 
 - Arduino IDE
