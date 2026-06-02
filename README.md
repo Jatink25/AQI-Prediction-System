@@ -27,6 +27,8 @@ AQI-Prediction-System
 │   ├── model4_0.py
 │   └── model_graph.py
 │
+├── License
+│
 └── README.md
 ```
 ## Technologies Used
